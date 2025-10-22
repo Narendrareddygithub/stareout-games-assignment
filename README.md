@@ -1,14 +1,10 @@
 # AI Game Ideation Agent - StareOut Games Assignment
 
-**Candidate:** Ode Narendra  
+**Candidate:** Ode Narendra Reddy
 **Date:** October 22, 2025  
 **Position:** AI Agent Development Internship
 
-[![Assignment Status](https://img.shields.io/badge/Status-Submitted-success)](https://github.com/odnarendra/stareout-games-assignment)
-[![Game Ideas](https://img.shields.io/badge/Game%20Ideas-5-blue)](./StareOut_Games_Assignment_Submission.pdf)
-[![Hallucination](https://img.shields.io/badge/Hallucination-Zero-brightgreen)](#)
 
----
 
 ## 📋 Assignment Overview
 
@@ -263,12 +259,10 @@ For a production-ready system, potential enhancements:
 
 ## 📞 Contact
 
-**Ode Narendra**  
+**Ode Narendra Reddy**  
 Bangalore, India  
 
-📧 Email: [Your email if you want]  
-💼 LinkedIn: [Your LinkedIn if you want]  
-🐙 GitHub: [@yourusername](https://github.com/yourusername)
+📧 Email: odenarendrareddy2@gmail.com  
 
 ---
 
